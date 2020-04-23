@@ -1,0 +1,21 @@
+C:\Users\54281\OneDrive\바탕 화면\0924 project\0924 project\bin\Debug\0924 project.exe.config
+C:\Users\54281\OneDrive\바탕 화면\0924 project\0924 project\bin\Debug\0924 project.exe
+C:\Users\54281\OneDrive\바탕 화면\0924 project\0924 project\bin\Debug\0924 project.pdb
+C:\Users\54281\OneDrive\바탕 화면\0924 project\0924 project\obj\Debug\0924 project.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\0924 project\0924 project\obj\Debug\0924 project.csproj.CoreCompileInputs.cache
+C:\Users\54281\OneDrive\바탕 화면\0924 project\0924 project\obj\Debug\0924 project.exe
+C:\Users\54281\OneDrive\바탕 화면\0924 project\0924 project\obj\Debug\0924 project.pdb
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\obj\Debug\0924 project.csprojAssemblyReference.cache
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\obj\Debug\0924 project.csproj.CoreCompileInputs.cache
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\obj\Debug\0924 project.exe
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\obj\Debug\0924 project.pdb
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\bin\Debug\0924 project.exe.config
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\bin\Debug\0924 project.exe
+C:\Users\54281\OneDrive\바탕 화면\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\bin\Debug\0924 project.pdb
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\bin\Debug\0924 project.exe.config
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\bin\Debug\0924 project.exe
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\bin\Debug\0924 project.pdb
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\obj\Debug\0924 project.csprojAssemblyReference.cache
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\obj\Debug\0924 project.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\obj\Debug\0924 project.exe
+C:\Users\user\Desktop\비트고급30기\4.C#\0924 학생관리+ 파일입출력(교수)\0924 project\obj\Debug\0924 project.pdb
